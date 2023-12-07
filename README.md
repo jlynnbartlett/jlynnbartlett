@@ -1,4 +1,4 @@
-- # Jennifer Lynn Bartlett #
+# Jennifer Lynn Bartlett #
 - I am interested in astronomical and bibliometric software.
   
 <!---
