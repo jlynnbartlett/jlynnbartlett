@@ -1,5 +1,5 @@
 - # Jennifer Lynn Bartlett #
-- I am interested in astronomical and biliometric software.
+- I am interested in astronomical and bibliometric software.
   
 <!---
 jlynnbartlett/jlynnbartlett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
